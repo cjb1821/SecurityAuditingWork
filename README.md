@@ -1,6 +1,5 @@
 # SecurityAuditingWork
-
-<br/>
+- The two files for this project are added within the README file.
 <h2>IT Audit: NIST 800-53 Compliance Assessment:</h2>
 -This project involved conducting an IT audit on a mock company to evaluate its security practices and Linux server configurations against NIST 800-53 controls, specifically AC-2 (Account Management) and AC-9 (Previous Logon Notification).
 <br/>
